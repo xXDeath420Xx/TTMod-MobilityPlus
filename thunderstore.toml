@@ -7,8 +7,8 @@ repository = "https://thunderstore.io"
 [package]
 namespace = "CertiFried"
 name = "MobilityPlus"
-versionNumber = "1.0.2"
-description = "Adds advanced mobility equipment: Stilts MKII/MKIII, Speed Boots, Jump Pack, Rail Runner MKII, Speed Pads, and Jump Pads."
+versionNumber = "1.6.0"
+description = "Adds advanced mobility equipment: Stilts MKII/MKIII, Speed Boots, Jump Pack, Rail Runner MKII, Speed/Jump Pads, and the Hover Pod personal vehicle!"
 websiteUrl = "https://github.com/xXDeath420Xx/TTMod-MobilityPlus"
 containsNsfwContent = false
 
