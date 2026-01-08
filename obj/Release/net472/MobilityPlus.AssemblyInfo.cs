@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MobilityPlus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34a7210b7edf6739851cbc0cb75ffa095b3b7975")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfc2a2bb57b6896600d0754f942908c15db6a8fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("MobilityPlus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MobilityPlus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
